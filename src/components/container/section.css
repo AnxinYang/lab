@@ -1,0 +1,7 @@
+.section {
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    background-color: white;
+    box-shadow: 2px 2px 4px 0px lightgray;
+    padding: 16px;
+}
